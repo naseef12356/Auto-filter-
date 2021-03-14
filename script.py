@@ -3,16 +3,36 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-Please go to @CFCHART to use me<i>help</i></b>"""
+Please go to @CFCHART to use me<i> For more /help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>MY CHANNELS</b>
 
 <i>
-* First go to @CFCHART
+OLD MOVIES 
+https://t.me/joinchat/7hP8iQnONVdlY2M9
 
-*Type movie name.
-  <b>NB: first search movie name in @imdb then copy and paste. If Movie available i Will send to you</b>.
+TELUGU MOVIES 
+https://t.me/joinchat/U4Gw_XLpQ_SLO6i9
+
+ALL MOVIES
+https://t.me/joinchat/R2NzDOyi85wb4EEp
+
+MALAYALAM MOVIES
+https://t.me/joinchat/QSPu1QHGNIQ2MmQ9
+
+SERIES AND FILMOGRAPHY 
+https://t.me/joinchat/R3ocwmbOOA3ASKYJ
+
+DVD UPDATES 
+https://t.me/joinchat/VUMDWO9PFmjruguU
+
+MALAYALAM SUBTITLES 
+https://t.me/joinchat/VEPyuGL5nV4ZV10G
+
+COPYRIGHTED MOVIES
+https://t.me/joinchat/UfGEgtRQzZrXUi8Z
+  <b>Join All Channels</b>.
 </i>
 
 
